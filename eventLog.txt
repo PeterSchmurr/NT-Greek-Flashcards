@@ -1,1 +1,3 @@
 EventLogCreated -  
+Clicked sentences
+Clicked approveSelections
